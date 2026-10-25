@@ -1,0 +1,1 @@
+# LAB_Pthreads_paralela
